@@ -1,0 +1,35 @@
+body{
+    margin: auto 50px;
+    padding: 0;
+}
+
+table {
+    direction: rtl;
+    text-align: center;
+    vertical-align: middle;
+    /* table-layout: fixed;  */
+}
+
+
+td{
+    text-align: center;
+    vertical-align: middle;
+}
+
+/* th,td{
+    overflow: hidden;
+    text-overflow:ellipsis;
+    width: 100%;
+} */
+
+
+
+.form-control{
+    direction: rtl;
+}
+
+
+h1 {
+    padding-top: 20px;
+    text-align: center;
+}
